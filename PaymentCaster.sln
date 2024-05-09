@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentCaster.Domain", "PaymentCaster.Domain\PaymentCaster.Domain.csproj", "{D7554BE0-E344-44D9-A934-ABECB2EB54B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentCaster.Shared", "PaymentCaster.Shared\PaymentCaster.Shared.csproj", "{AA3F3B85-FE21-4B33-8914-5774E87A791C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentCaster.Tests", "PaymentCaster.Tests\PaymentCaster.Tests.csproj", "{97BF3186-8ABA-4C48-AB5F-D02B19EA247A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7554BE0-E344-44D9-A934-ABECB2EB54B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7554BE0-E344-44D9-A934-ABECB2EB54B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7554BE0-E344-44D9-A934-ABECB2EB54B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7554BE0-E344-44D9-A934-ABECB2EB54B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA3F3B85-FE21-4B33-8914-5774E87A791C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3F3B85-FE21-4B33-8914-5774E87A791C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3F3B85-FE21-4B33-8914-5774E87A791C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3F3B85-FE21-4B33-8914-5774E87A791C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97BF3186-8ABA-4C48-AB5F-D02B19EA247A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97BF3186-8ABA-4C48-AB5F-D02B19EA247A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97BF3186-8ABA-4C48-AB5F-D02B19EA247A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97BF3186-8ABA-4C48-AB5F-D02B19EA247A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
