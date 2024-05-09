@@ -16,4 +16,9 @@
     <PackageReference Include="coverlet.collector" Version="6.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PaymentCaster.Domain\PaymentCaster.Domain.csproj" />
+    <ProjectReference Include="..\PaymentCaster.Shared\PaymentCaster.Shared.csproj" />
+  </ItemGroup>
+
 </Project>

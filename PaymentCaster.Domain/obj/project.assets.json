@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "PaymentCaster.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PaymentCaster.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PaymentCaster.Shared.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PaymentCaster.Shared/1.0.0": {
+      "type": "project",
+      "path": "../PaymentCaster.Shared/PaymentCaster.Shared.csproj",
+      "msbuildProject": "../PaymentCaster.Shared/PaymentCaster.Shared.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "PaymentCaster.Shared >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Usuario\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Usuario\\Desktop\\Courses\\PaymentCaster\\PaymentCaster.Shared\\PaymentCaster.Shared.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Desktop\\Courses\\PaymentCaster\\PaymentCaster.Shared\\PaymentCaster.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
