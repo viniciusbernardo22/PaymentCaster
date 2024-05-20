@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "PaymentCaster.Domain/1.0.0": {
+        "dependencies": {
+          "PaymentCaster.Shared": "1.0.0"
+        },
         "runtime": {
           "PaymentCaster.Domain.dll": {}
+        }
+      },
+      "PaymentCaster.Shared/1.0.0": {
+        "runtime": {
+          "PaymentCaster.Shared.dll": {}
         }
       }
     }
   },
   "libraries": {
     "PaymentCaster.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PaymentCaster.Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

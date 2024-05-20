@@ -1,3 +1,4 @@
+C:\Users\Usuario\Desktop\Courses\PaymentCaster\PaymentCaster.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_PaymentCaster.Tests
 C:\Users\Usuario\Desktop\Courses\PaymentCaster\PaymentCaster.Tests\bin\Debug\net8.0\testhost.dll
 C:\Users\Usuario\Desktop\Courses\PaymentCaster\PaymentCaster.Tests\bin\Debug\net8.0\testhost.exe
 C:\Users\Usuario\Desktop\Courses\PaymentCaster\PaymentCaster.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
@@ -97,6 +98,10 @@ C:\Users\Usuario\Desktop\Courses\PaymentCaster\PaymentCaster.Tests\bin\Debug\net
 C:\Users\Usuario\Desktop\Courses\PaymentCaster\PaymentCaster.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 C:\Users\Usuario\Desktop\Courses\PaymentCaster\PaymentCaster.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 C:\Users\Usuario\Desktop\Courses\PaymentCaster\PaymentCaster.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Usuario\Desktop\Courses\PaymentCaster\PaymentCaster.Tests\bin\Debug\net8.0\PaymentCaster.Domain.dll
+C:\Users\Usuario\Desktop\Courses\PaymentCaster\PaymentCaster.Tests\bin\Debug\net8.0\PaymentCaster.Shared.dll
+C:\Users\Usuario\Desktop\Courses\PaymentCaster\PaymentCaster.Tests\bin\Debug\net8.0\PaymentCaster.Domain.pdb
+C:\Users\Usuario\Desktop\Courses\PaymentCaster\PaymentCaster.Tests\bin\Debug\net8.0\PaymentCaster.Shared.pdb
 C:\Users\Usuario\Desktop\Courses\PaymentCaster\PaymentCaster.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\Usuario\Desktop\Courses\PaymentCaster\PaymentCaster.Tests\obj\Debug\net8.0\PaymentCaster.Tests.csproj.AssemblyReference.cache
 C:\Users\Usuario\Desktop\Courses\PaymentCaster\PaymentCaster.Tests\obj\Debug\net8.0\PaymentCaster.Tests.GeneratedMSBuildEditorConfig.editorconfig
