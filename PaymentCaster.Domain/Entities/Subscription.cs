@@ -21,10 +21,8 @@ public class Subscription
     public IReadOnlyCollection<Payment> Payments
     { get; private set; }
 
-    public void AddPayment(Payment payment)
-    {
-        _payments.Add(payment);
-    }
+    public void AddPayment(Payment payment) => _payments.Add(payment);
+    
 
     public void Activate()
     {
