@@ -1,8 +1,9 @@
 ﻿using PaymentCaster.Domain.ValueObjects;
+using PaymentCaster.Shared.Entities;
 
 namespace PaymentCaster.Domain.Entities;
 
-public class Student
+public class Student : Entity
 {
     private IList<Subscription> _subscriptions;
     

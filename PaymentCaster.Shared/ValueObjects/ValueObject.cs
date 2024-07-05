@@ -1,4 +1,6 @@
-﻿namespace PaymentCaster.Domain.ValueObjects.Base;
+﻿using PaymentCaster.Domain;
+
+namespace PaymentCaster.Shared.ValueObjects;
 
 public abstract class ValueObject
 {

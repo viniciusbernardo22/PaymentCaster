@@ -1,5 +1,5 @@
 ﻿using System.Text.RegularExpressions;
-using PaymentCaster.Domain.ValueObjects.Base;
+using PaymentCaster.Shared.ValueObjects;
 
 namespace PaymentCaster.Domain.ValueObjects;
 

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using PaymentCaster.Domain.Enums;
-using PaymentCaster.Domain.ValueObjects.Base;
+using PaymentCaster.Shared.ValueObjects;
 
 namespace PaymentCaster.Domain.ValueObjects;
 

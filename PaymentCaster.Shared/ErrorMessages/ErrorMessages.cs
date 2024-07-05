@@ -1,5 +1,5 @@
 ﻿namespace PaymentCaster.Domain;
-public  class ErrorMessages
+public class ErrorMessages
 {
     public  string EmptyOrNullMessage(string property)
         => string.Format($"{property} should not be empty or null");
