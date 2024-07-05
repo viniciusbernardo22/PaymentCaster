@@ -1,8 +1,11 @@
-﻿namespace PaymentCaster.Domain.Entities;
+﻿using PaymentCaster.Domain.ValueObjects;
+using Document = System.Reflection.Metadata.Document;
+
+namespace PaymentCaster.Domain.Entities;
 
 public class CreditCardPayment : Payment
 {
-    public CreditCardPayment(DateTime paidDate, DateTime expireDate, decimal total, decimal totalPaid, string payer, string document, Address address, string email, string cardHolderName, string cardNumber, string lastTransactionNumber) : base(paidDate, expireDate, total, totalPaid, payer, document, address, email)
+    public CreditCardPayment(DateTime paidDate, DateTime expireDate, decimal total, decimal totalPaid, string payer, Document document, Address address, Email email, string cardHolderName, string cardNumber, string lastTransactionNumber) : base(paidDate, expireDate, total, totalPaid, payer, document, address, email)
     {
         CardHolderName = cardHolderName;
         CardNumber = cardNumber;

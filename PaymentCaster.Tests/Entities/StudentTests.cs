@@ -9,7 +9,7 @@ public class StudentTests
     
     public void TestMethod1()
     {
-        var student = new Student("Vinícius", "Bernardo", "9999999999-1", "vini383@gmail.com");
+      
         
     }
 }

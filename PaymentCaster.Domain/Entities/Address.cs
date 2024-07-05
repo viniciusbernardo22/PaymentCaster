@@ -10,7 +10,6 @@ public class Address
     public string State { get; set; }
     public string Country { get; set; }
     public GeoLocalization Location { get; set; }
-   
 }
 
 public class GeoLocalization
