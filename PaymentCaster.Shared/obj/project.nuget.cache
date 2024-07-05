@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "d3xoWpAHAYFDmGE169Z9tl2FZlydSZBJBFf0M+ISEvNf8aLy2yn8wgghQRVxZF1YUIMYtbJr72PERfWZ0oQWdg==",
+  "dgSpecHash": "tg67AozfDIQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Courses\\PaymentCaster\\PaymentCaster.Shared\\PaymentCaster.Shared.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\vini3\\OneDrive\\Desktop\\Courses\\PaymentCaster\\PaymentCaster.Shared\\PaymentCaster.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vini3\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.5\\microsoft.netcore.app.ref.8.0.5.nupkg.sha512",
+    "C:\\Users\\vini3\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.5\\microsoft.windowsdesktop.app.ref.8.0.5.nupkg.sha512",
+    "C:\\Users\\vini3\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.5\\microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

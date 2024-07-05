@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\vini3\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Courses\\PaymentCaster\\PaymentCaster.Shared\\PaymentCaster.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\vini3\\OneDrive\\Desktop\\Courses\\PaymentCaster\\PaymentCaster.Shared\\PaymentCaster.Shared.csproj",
       "projectName": "PaymentCaster.Shared",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\Courses\\PaymentCaster\\PaymentCaster.Shared\\PaymentCaster.Shared.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\Courses\\PaymentCaster\\PaymentCaster.Shared\\obj\\",
+      "projectPath": "C:\\Users\\vini3\\OneDrive\\Desktop\\Courses\\PaymentCaster\\PaymentCaster.Shared\\PaymentCaster.Shared.csproj",
+      "packagesPath": "C:\\Users\\vini3\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vini3\\OneDrive\\Desktop\\Courses\\PaymentCaster\\PaymentCaster.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\vini3\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -40,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -56,12 +59,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.5, 8.0.5]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.5, 8.0.5]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.5, 8.0.5]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.5.24307.3/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
